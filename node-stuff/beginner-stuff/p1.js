@@ -1,7 +1,9 @@
-//console.log("HELLO WORLD");
+//First task
+console.log("HELLO WORLD");
 //console.log(process.argv);
 //console.log(process.argv);
 //console.log(process.argv.length);
+//Second Task
 args=process.argv;
 //console.log("args:"+args)
 sum=0;
