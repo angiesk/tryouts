@@ -1,4 +1,4 @@
-//Importing the node htpp module
+//Importing or rather  including the node http module which is a built in module
 var http = require('http');
 //Writing Server Side code
 //creating serer using the func in http module
