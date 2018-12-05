@@ -8,5 +8,5 @@ http.createServer(function (req, res) {
     // res.write("Date and Time:" + mods.myDateTime.dt());
     res.write("Sum:" + mods.calculations(9, 5));
     //res.write();
-    res.end("end!!");
+    res.end("<br>end!!");
 }).listen(9800);
